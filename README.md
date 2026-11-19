@@ -1,6 +1,7 @@
-# FNF_Materials
-FNF (Friday Night Funkin') 関係で作成した物を保管・配布しています。  
-以下を管理しています。  
+# fox79 - FNF Assets [FANMADE]
+FNF (Friday Night Funkin') 及びそのMDOうち、私が作成したもの、再現したものを保管・配布しています。    
+
+**基本的に音声、楽曲に関するものを管理しています。**  
  - プロジェクトファイル : FLP / FLM / MIDI  
    - 楽曲のVocalを再現したもの  
    - 楽曲のプロジェクトファイル (FLPのみ)  
@@ -29,7 +30,7 @@ FNF (Friday Night Funkin') 関係で作成した物を保管・配布してい�
 
  - 一括でダウンロードする場合、gitを利用してダウンロードします。
    1. git 及び git lfs のインストール
-   2. インストール後、 ``git clone git@github.com:user-fox79/FNF_Music_Materials.git`` を実行してください
+   2. インストール後、 ``git clone git@github.com:user-fox79/fox79_FNF_Assets.git`` を実行してください
    3. 2の時点でファイルが開けない場合、 ``git lfs pull`` を実行してください
 
 # Credit  
